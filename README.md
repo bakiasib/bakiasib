@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Denada Bakiasi! 👋
 
-<!--
-**bakiasib/bakiasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [building a new web application].
+🌱 I’m currently learning [advanced JavaScript frameworks like React].
+👯 I’m looking to collaborate on [open-source projects related to data visualization].
+💬 Ask me about [front-end development, data analysis, or machine learning].
+📫 How to reach me: [you can reach me via email at example@example.com or on Twitter @example].
+😄 Pronouns: [she/her].
+⚡ Fun fact: [I'm a certified scuba diver!].
 
-Here are some ideas to get you started:
+### Languages Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakiasib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Feel free to explore my repositories and reach out!
